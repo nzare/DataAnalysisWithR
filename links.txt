@@ -1,0 +1,10 @@
+Assocation Rule Mining:
+https://blog.exploratory.io/introduction-to-association-rules-market-basket-analysis-in-r-7a0dd900a3e0
+https://drive.google.com/file/d/13WuQn8x9N0LslWv8Wl-desrsrkGgZgXf/view
+https://www.analyticsvidhya.com/blog/2017/08/mining-frequent-items-using-apriori-algorithm/
+
+Sentiment Analysis:
+https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17
+https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-1-twitter-authentication-d6cd67678ad7
+https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-2-word-cloud-dd423af1b2c6
+https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-3-sentiment-analysis-53d0e5359cb8#e43e
