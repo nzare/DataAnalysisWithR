@@ -8,3 +8,18 @@ https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applicati
 https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-1-twitter-authentication-d6cd67678ad7
 https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-2-word-cloud-dd423af1b2c6
 https://medium.com/@rohitnair_94843/analysis-of-twitter-data-using-r-part-3-sentiment-analysis-53d0e5359cb8#e43e
+
+Data Visuaization:
+https://www.analyticsvidhya.com/blog/2015/07/guide-data-visualization-r/
+https://kateto.net/netscix2016.html
+
+Anomaly Detection:
+https://drive.google.com/drive/folders/1Oqc2YAjtMeN2jYUkSywSNpONNlpBX1mW?usp=sharing
+
+Advance Topic: Networks and Graphs
+https://plot.ly/r/network-graphs/
+https://www.datacamp.com/courses/network-analysis-in-r
+
+Further Topics:
+https://www.coursera.org/learn/reproducible-research
+https://www.coursera.org/learn/statistical-inference
